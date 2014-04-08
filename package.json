@@ -4,12 +4,12 @@
     "description": "A Node.js module for using the Spotify Metadata Search API",
     "keywords": ["music", "spotify"],
     "license": "MIT",
-    "version": "0.0.1",
+    "version": "0.0.2",
     "repository": {
         "type": "git",
         "url": "git://github.com/projectweekend/node-spotify-search.git"
     },
-    "main": "./lib/spotify-search.js",
+    "main": "./lib/spotify-metadata-search.js",
     "devDependencies": {
         "chai": "~1.9.1",
         "mocha": "~1.18.2"
