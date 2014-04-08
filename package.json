@@ -1,6 +1,6 @@
 {
     "author": "Brian Hines",        
-    "name": "spotify-search",
+    "name": "spotify-metadata-search",
     "description": "A Node.js module for using the Spotify Metadata Search API",
     "keywords": ["music", "spotify"],
     "license": "MIT",
