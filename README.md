@@ -1,4 +1,4 @@
-A Node.js module for using the Spotify Metadata Search API
+A Node.js module for using the Spotify Metadata Search API. Detailed information about the responses and their structure can be found in the [Spotify documentation](https://developer.spotify.com/technologies/web-api/).
 
 ### Install it
 
